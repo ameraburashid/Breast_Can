@@ -1,0 +1,2 @@
+cancer_classifier_v0:
+	this file contains the model befor adding hyperparameter and nesting the code in a loop
